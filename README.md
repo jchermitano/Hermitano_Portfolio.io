@@ -1,1 +1,12 @@
-# Hermitano_Portfolio.io
+# https://github.com/jchermitano/Hoa_6.1_-Portfolio.git
+# https://github.com/jchermitano/Hoa_8.1_-Portfolio.git
+# https://github.com/jchermitano/Hoa_9.1_-Portfolio.git
+# https://github.com/jchermitano/Hoa_10.1_-Portfolio.git
+# https://github.com/jchermitano/Hoa_11_-Portfolio.git
+# https://github.com/jchermitano/Hoa_12.1_-Portfolio.git
+# https://github.com/jchermitano/Hoa_13.1_-Portfolio.git
+# https://github.com/jchermitano/Hoa_14.1_-Portfolio.git
+# https://github.com/jchermitano/Hoa_15.1_-Portfolio.git
+# https://github.com/jchermitano/Hermitano_PrelimExam.git
+# https://github.com/jchermitano/CPE_MIDEXAM_HERMITANO.git
+# https://github.com/jchermitano/Final_Exam_Hermitano.git)
